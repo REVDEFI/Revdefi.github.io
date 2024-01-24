@@ -1,10 +1,10 @@
 # Welcome to Revdefi
 
-## Expert Computer Consulting Services
+## Consulting Services
 
-![Revdefi Logo](path/to/logo.png)
+![Revdefi Logo](/sunflower.jpg)
 
-At **Revdefi**, we offer top-notch computer consulting services tailored to meet your business's unique needs. Our team of experienced IT professionals is dedicated to ensuring your technology drives your business success.
+At **Revdefi**, we offer top-notch tech consulting services tailored to meet your business's unique needs. Our team of experienced IT professionals is dedicated to ensuring your technology drives your business success.
 
 ### Our Services
 
