@@ -20,7 +20,7 @@ At **Revdefi**, we offer top-notch tech consulting services tailored to meet you
 - **Expert Team:** Our consultants are industry-certified and have years of experience.
 - **Customized Solutions:** We provide solutions that are tailored to your business needs.
 - **Proactive Approach:** We anticipate potential issues and solve them before they impact your business.
-- **24/7 Support:** Our dedicated support team is here for you anytime, ensuring your operations run smoothly.
+- **Support:** Our dedicated support team is here for you anytime, ensuring your operations run smoothly.
 
 ![Revdefi Logo](/sunflower.jpg)
  
