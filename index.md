@@ -2,8 +2,6 @@
 
 ## Consulting Services
 
-![Revdefi Logo](/sunflower.jpg)
-
 At **Revdefi**, we offer top-notch tech consulting services tailored to meet your business's unique needs. Our team of experienced IT professionals is dedicated to ensuring your technology drives your business success.
 
 ### Our Services
@@ -21,9 +19,7 @@ At **Revdefi**, we offer top-notch tech consulting services tailored to meet you
 - **Customized Solutions:** We provide solutions that are tailored to your business needs.
 - **Proactive Approach:** We anticipate potential issues and solve them before they impact your business.
 - **Support:** Our dedicated support team is here for you anytime, ensuring your operations run smoothly.
-
-![Revdefi Logo](/sunflower.jpg)
- 
+-  
 ### Contact Us
 
 Ready to take your business to the next level with Revdefi's expert consulting services? 
@@ -33,7 +29,6 @@ Ready to take your business to the next level with Revdefi's expert consulting s
 📞 **Phone:** (844) REV-DEFI
 
 🌐 **Visit our Website:** [www.revdefi.com](http://www.revdefi.com)
-
  
 ---
 
